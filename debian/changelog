@@ -1,0 +1,54 @@
+pr2-sysros (0.5.63-precise) stable; urgency=low
+
+  * Incrementing to SVN: r986
+   - r986: Pull changes from lucid
+
+ -- Austin Hendrix <ahendrix@willowgarage.com>  Tue, 04 Dec 2012 13:16:27 -0800
+
+pr2-sysros (0.5.62-precise) stable; urgency=low
+
+  * Incrementing to SVN: r893
+   - r893: installs precise
+
+ -- Michael Brindle <mbrindle@willowgarage.com>  Tue, 31 Jul 2012 11:59:11 -0700
+
+pr2-sysros (0.5.61) stable; urgency=low
+
+  * Changed:
+    - pr2-sysros/root/etc/sysros/setup.sh
+    - pr2-sysros/debian/control
+
+ -- Michael Brindle <mbrindle@willowgarage.com>  Wed, 25 Jul 2012 17:17:32 -0700
+
+pr2-sysros (0.5.4-precise) stable; urgency=low
+
+  * Incrementing to SVN: r801
+   - r735: changelogs
+   - r782: Use cturtle by default. Track down why previous incorrect change never made it into the Debians
+   - r801: Update to electric.
+
+ -- Austin Hendrix <ahendrix@willowgarage.com>  Tue, 09 Aug 2011 18:01:17 -0700
+
+pr2-sysros (0.5.2-precise) stable; urgency=low
+
+  * Incrementing to SVN: r658
+   - r658: changelog
+
+ -- Jeremy Leibs <leibs@willowgarage.com>  Wed, 02 Feb 2011 17:32:03 -0800
+
+pr2-sysros (0.5.1-precise) stable; urgency=low
+
+  * Incrementing to SVN: r657
+   - r657: Adding conflict with old version of pr2-core
+
+ -- Jeremy Leibs <leibs@willowgarage.com>  Wed, 02 Feb 2011 17:26:48 -0800
+
+pr2-sysros (0.5.0-precise) stable; urgency=low
+
+  * Incrementing to SVN: r655
+   - r653: Creating pr2-sysros
+   - r654: Moving sysros into pr2-sysros
+   - r655: More creating of pr2-sysros
+
+ -- Jeremy Leibs <leibs@willowgarage.com>  Wed, 02 Feb 2011 14:31:15 -0800
+
