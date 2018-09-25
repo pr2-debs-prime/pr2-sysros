@@ -1,13 +1,13 @@
 Source: pr2-sysros
 Section: pr2/config
 Priority: extra
-Maintainer: Devon Ash <dash@clearpathrobotics.com>
+Maintainer: David Feil-Seifer <dave@cse.unr.edu>
 Build-Depends: debhelper (>= 9)
 Standards-Version: 3.7.2
 
 Package: pr2-sysros
 Architecture: any
-Depends: python, ros-indigo-linux-networking
+Depends: python, ros-kinetic-linux-networking
 Description: Provides system components that are provided through ROS
 Provides: ${diverted-files}
 Conflicts: ${diverted-files}, pr2-core (<= 0.5.25)
