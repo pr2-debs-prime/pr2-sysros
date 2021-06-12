@@ -7,7 +7,7 @@ Standards-Version: 3.7.2
 
 Package: pr2-sysros
 Architecture: any
-Depends: python, ros-kinetic-linux-networking
+Depends: python, ros-noetic-linux-networking
 Description: Provides system components that are provided through ROS
 Provides: ${diverted-files}
 Conflicts: ${diverted-files}, pr2-core (<= 0.5.25)
